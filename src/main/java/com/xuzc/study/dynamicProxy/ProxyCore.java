@@ -1,9 +1,8 @@
-package com.xuzc.study.dynamicProxyTest;
+package com.xuzc.study.dynamicProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.util.Objects;
 
 /**
  * Created by Stronger-pc on 2016/12/6.
