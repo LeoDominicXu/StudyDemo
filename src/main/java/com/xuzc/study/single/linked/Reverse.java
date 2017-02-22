@@ -2,7 +2,7 @@ package com.xuzc.study.single.linked;
 
 /**
  * @Description: The description of the file.
- * @Author: Lagou
+ * @Author: Dominic
  * @Date: 2017/2/22
  */
 public class Reverse {
