@@ -9,7 +9,7 @@ import java.lang.reflect.Field;
  */
 public class Test {
     public static void main(String[] args) {
-        getFruitInfo("com.xuzc.study.annotation.Apple");
+        getFruitInfo("Apple");
     }
 
     private static void getFruitInfo(String clas) {
